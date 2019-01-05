@@ -1,1 +1,1 @@
-worker: node wes.js
+worker: node probot.js
